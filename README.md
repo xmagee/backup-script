@@ -1,2 +1,8 @@
-# backup-script
-a bash script that I used to back  up files (as cron task)
+# backup script
+
+## run this 
+ * `$ git clone https://github.com/xmagee/backup.git` 
+ * `$ cd backup`
+ * `$ chmod +x backup.sh`
+ * `$ ./backup.sh -s SOURCE_DIR -d DESTINATION_DIR`
+ 
